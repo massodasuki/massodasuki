@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @massodasuki
 - 👀 I’m interested in Scalable Application Development using Node JS
-- 🌱 I’m currently learning Java Springboot, Flutter and ReactJS
+- 🌱 I’m able to code Java Springboot, Flutter and ReactJS
 - 💞️ I’m looking to collaborate on anyone who interested to digitalized their bussiness.
 - 📫 How to reach me : email me at massodasuki.dev@gmail.com
 
